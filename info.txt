@@ -1,0 +1,12 @@
+###########
+Informaiton
+###########
+1. The articles in "article_wikiTITLE.csv" had been edited larger than 10,000 times.
+2. The editor in "editor_wikiID.csv" is who edited larger than 1% of edits in an article in the list.
+3. "article_editor0.01.csv" shows article-ego pairs in our paper.
+4. Files in "Time_series/article{#ID}_time_user_bot.csv" is for an article's editing data.
+4-1. The first column shows article identity number in "article_wikiTITLE.csv".
+4-2. The second column is the time (sec) from 1970-Jan-1 (UTC). 
+4-3. The third column shows editor identity number in "editor_wikiID.csv"
+4-4. The fourth column refers to human and bot as "0" and "1", respectively.
+5. Arbitrary assinged identity numnbers for articles and editors were used in our wikipedia time series.
