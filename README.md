@@ -1,9 +1,9 @@
 ### Informaiton ###
 0. This Wikipedia dataset is originated by Woo-Sik Son who colloects and composes the dataset from "https://dumps.wikimedia.org/enwiki/".
 The dataset was extracted from "enwiki-20151002-stub-meta-history.xml.gz" file (278 GB, decompress file) uploaded at 2015, October 2.
-+a. The number of article is 11,994,178 only for general article page.
++ a) The number of article is 11,994,178 only for general article page.
 7,015,214 articles had been merged to other article and 4,978,964 articles was in use (by 2015, Oct 2).
-+b. The number of editor including bots is 40,057,921 involed above articles.
++ b) The number of editor including bots is 40,057,921 involed above articles.
 Editors without own User ID, such as IP address, are considered as different editors.
 
 1. The articles in "article_wikiTITLE.csv" had been edited larger than 10,000 times.
