@@ -1,5 +1,13 @@
+Author: Jeehye Choi [email]
+
+Upload date: ???
+
+Description: Dataset analyzed for the following paper: Jeehye Choi, Takayuki Hiraoka, and Hang-Hyun Jo, Spontaneous versus interaction-driven burstiness in human dynamics: The case of Wikipedia edit history [https://arxiv.org/abs/2011.01562] 
+
+
 ### Informaiton ###
-0. This Wikipedia dataset is originated by Woo-Sik Son who colloects and composes the dataset from "https://dumps.wikimedia.org/enwiki/".
+0. 
+1. This Wikipedia dataset is originated by Woo-Sik Son who colloects and composes the dataset from "https://dumps.wikimedia.org/enwiki/".
 The dataset was extracted from "enwiki-20151002-stub-meta-history.xml.gz" file (278 GB, decompress file) uploaded at 2015, October 2.
 + The number of article is 11,994,178 only for general article page.
 7,015,214 articles had been merged to other article and 4,978,964 articles was in use (by 2015, Oct 2).
