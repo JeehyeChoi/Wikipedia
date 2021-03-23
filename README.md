@@ -15,7 +15,7 @@ Description: Dataset analyzed for the following paper: Jeehye Choi, Takayuki Hir
 
 4. Files in "Time_series/article{\#ID}_time_user_bot.csv" is for an article's editing data.
 + The first column shows article identity number in "article_wikiTITLE.csv". The identity number refers "Page ID" on the page information profile at Wikipedia webpage.
-+ The second column is the time (sec) from 1970-Jan-1 00:00:00 (KST). 
++ The second column is the Unix time. 
 + The third column shows editor identity number in "editor_wikiID.csv"
 + The fourth column refers to human and bot as "0" and "1", respectively.
 + Identity numnbers are assigned for editors in our wikipedia time series. Please do not confuse own "User ID" on the Wikipedia page information.
