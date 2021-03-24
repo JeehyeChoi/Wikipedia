@@ -11,7 +11,7 @@ Description: Dataset analyzed for the following paper: Jeehye Choi, Takayuki Hir
 
 2. The file "editor_wikiID.csv" contains the editor IDs and names for the editors who edited more than 1% of edits of the articles in "article_wikiTITLE.csv".
 
-3. The file "article_editor0.01.csv" contains article-ego pairs analyzed in our paper.
+3. The file "article_editor0.01_AUCTF.csv" contains article-ego pairs and AUCs analyzed in our paper.
 
 4. Files in "Time_series/article{\#ID}_time_user_bot.csv" is for an article's editing data.
 + The first column shows article identity number in "article_wikiTITLE.csv". The identity number refers "Page ID" on the page information profile at Wikipedia webpage.
