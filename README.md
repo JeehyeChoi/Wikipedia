@@ -1,6 +1,6 @@
 Author: Jeehye Choi [choi.jeehye@gmail.com]
 
-Upload date: February 15, 2021
+Upload date: March 24, 2021
 
 Description: Dataset analyzed for the following paper: Jeehye Choi, Takayuki Hiraoka, and Hang-Hyun Jo, Spontaneous versus interaction-driven burstiness in human dynamics: The case of Wikipedia edit history [https://arxiv.org/abs/2011.01562] 
 
