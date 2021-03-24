@@ -11,11 +11,8 @@ Description: Dataset analyzed for the following paper: Jeehye Choi, Takayuki Hir
 
 2. The file "editor_wikiID.csv" contains the editor IDs and names for the editors who edited more than 1% of edits of the articles in "article_wikiTITLE.csv".
 
-3. The file "article_editor0.01_aucTF.csv" contains article-ego pairs and AUCs analyzed in our paper.
+3. The file "article_editor0.01_aucTF.csv" contains the article ID and the editor ID for each article-ego pair analyzed in our paper, and whether the AUC is defined (True) or not (False).
 
-4. Files in "Time_series/article{\#ID}_time_user_bot.csv" is for an article's editing data.
-+ The first column shows article identity number in "article_wikiTITLE.csv". The identity number refers "Page ID" on the page information profile at Wikipedia webpage.
-+ The second column is the Unix time. 
-+ The third column shows editor identity number in "editor_wikiID.csv"
-+ The fourth column refers to human and bot as "0" and "1", respectively.
-+ Identity numnbers are assigned for editors in our wikipedia time series. Please do not confuse own "User ID" on the Wikipedia page information.
+4. Each file "Time_series/article{\#ID}_time_user_bot.csv" contains the timestamp and the editor ID of each edit in the article. The timestamp is in Unix time. The last column has the value of "0" ("1") if the editor is human (bot). 
+
+(???) Identity numnbers are assigned for editors in our wikipedia time series. Please do not confuse own "User ID" on the Wikipedia page information.
