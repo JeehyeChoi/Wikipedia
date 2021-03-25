@@ -1,4 +1,4 @@
-Author: Jeehye Choi [choi.jeehye@gmail.com]
+Author: Jeehye Choi (choi.jeehye@gmail.com)
 
 Upload date: March 24, 2021
 
