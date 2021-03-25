@@ -13,4 +13,4 @@ Description: Dataset analyzed for the following paper: Jeehye Choi, Takayuki Hir
 
 3. The file "article_editor0.01_aucTF.csv" contains the page ID and the user index for each article-ego pair analyzed in our paper, and whether the AUC can be determined (True) or not (False) for each article-ego pair.
 
-4. Each file "Time_series/article{\#ID}_time_user_bot.csv" contains the timestamp and the user index of each edit in the article. The timestamp is in Unix time. The last column has the value of "0" ("1") if the user is human (bot).
+4. Each file "Time_series/time_series_article{\#ID}.csv" contains the timestamp and the user index of each edit in the article. The timestamp is in Unix time. The last column has the value of "0" ("1") if the user is human (bot).
