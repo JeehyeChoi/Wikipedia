@@ -2,7 +2,7 @@ Author: Jeehye Choi (choi.jeehye@gmail.com)
 
 Last updated on July 28, 2021
 
-Description: Dataset analyzed for the following paper: Jeehye Choi, Takayuki Hiraoka, and Hang-Hyun Jo, Individual-driven versus interaction-driven burstiness in human dynamics: The case of Wikipedia edit history, Phys. Rev. E 104, 01432 (2021). https://doi.org/10.1103/PhysRevE.104.014312      
+Description: Dataset analyzed for the following paper: Jeehye Choi, Takayuki Hiraoka, and Hang-Hyun Jo, Individual-driven versus interaction-driven burstiness in human dynamics: The case of Wikipedia edit history, Phys. Rev. E 104, 014312 (2021). https://doi.org/10.1103/PhysRevE.104.014312      
 
 
 0. The dataset we analyzed was derived from the Woo-Sik Son's preprocessed dataset of Wikipedia edit history. The original file is "enwiki-20151002-stub-meta-history.xml.gz" (278 GB when unzipped) that was uploaded on October 2, 2015 (https://dumps.wikimedia.org/enwiki/).
